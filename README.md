@@ -34,6 +34,11 @@ Obtendremos una aplicación de tres pantallas que podremos explorar y personaliz
 
 ---
 
+#### Explora más recursos:
+* [Navegación en una aplicación de lienzo en Power Apps](https://docs.microsoft.com/learn/modules/navigation-canvas-app/?WT.mc_id=academic-56577-hmitra)
+* [Personalización de una aplicación de lienzo en Power Apps](https://learn.microsoft.com/es-mx/training/modules/customize-apps-in-powerapps/?WT.mc_id=academic-56577-hmitra)
+* [Administración de aplicaciones en Power Apps](https://learn.microsoft.com/es-mx/training/modules/manage-apps-in-powerapps/?WT.mc_id=academic-56577-hmitra%3FWT.mc_id%3Dacademic-56577-hmitra)
+
 ##### ¡Sigue las instrucciones del workshop y disfruta de Tech-Mania!
 
 **Made with :heart: by X-Women**
